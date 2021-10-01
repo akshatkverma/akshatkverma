@@ -2,7 +2,7 @@
   - 👀 I’m interested in Android Developement and Data Structures and Algorithms
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Android Projects  
-- 📫 How to reach me mailto:akshatvermajbp@gmail.com
+- 📫 How to reach me akshatvermajbp@gmail.com
 
 <!---
 akshatkverma/akshatkverma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
